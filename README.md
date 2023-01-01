@@ -11,8 +11,8 @@
 Clone the repository and install the dependencies.
 
 ```bash
-git clone https://github.com/Zettablock/ethereum-token-metadata-bot.git
-cd zettablock_token_bot
+git clone https://github.com/legendarykamal/solanabot.git
+cd solanabot
 yarn install
 ```
 
