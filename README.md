@@ -2,7 +2,9 @@
 
 ## Introduction
 
-This is a [ZettaBlock](https://zettablock.com) GraphQL API use case, which demonstrates how to build a bot that query Ethereum token metadata via GraphQL API.
+ The Solana Token Bot is a program that allows you to interact with the Solana blockchain that fetches the token metadata live using the ZettaBlock API right in the telegram bot by just writing a simple command. 
+ 
+ The ZettaBlock API is a set of APIs that allows developers to access and interact with the Solana blockchain.
 
 ## Installation
 
@@ -37,4 +39,4 @@ $ node bot.js
 
 Visit your bot on Telegram and type `/token $SYMBOL` to query the token metadata.
 
-![demo](demo.png)
+![bot](botexample.png)
